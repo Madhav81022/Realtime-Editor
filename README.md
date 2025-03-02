@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+COMPANY: CODTECH IT SOLUTION
 
-Currently, two official plugins are available:
+NAME: MADHAV KUMAR
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+INTERN ID: CT08SFA
+
+DOMAIN: MERN STACK WEB DEVELOPMENT
+
+DURATION: 4 WEEKS
+
+MENTORS: NEELA SANTHOSH
+
+A real-time collaborative editor allows multiple users to edit documents simultaneously, similar to Google Docs. Built with the MERN (MongoDB, Express.js, React.js, Node.js) stack, and Socket.io for real-time communication, this project ensures seamless synchronization of document changes among users.
+
+OUTPUT:
+
